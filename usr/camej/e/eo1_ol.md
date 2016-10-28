@@ -1,3 +1,4 @@
+José Mría Carrasco;
 Hola, vamos a insertar una imagen; 
 
 ![Imágen toreo](http://3.bp.blogspot.com/-HvJgDaYLwUU/UdVlGFCAUnI/AAAAAAAAAbg/3Ynpbykfd4Q/s500/1372867763_extras_portadilla_0.jpg)
@@ -29,5 +30,7 @@ Lista no ordenada:
 Esto es un ejemplo de cómo hacer una prueba para la Unidad Didáctica 5 de Seguridad Informática siendo Ésta su table CE-PM de la Programación Didactica:
 
 #####UNIDAD DIDÁCTICA 5-RA5 (PM total:150)
-
+| **CE** | **RA5:a** | **RA5:b** | **RA5:c** | **RA5:d** | **RA5:e** | **RA5:f** |
+|-----|------|-------|--------|-------|------|------|
+| PM  |  50  |  50   |   10   |  10   |  20  |  10  | 
 
