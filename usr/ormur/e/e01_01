@@ -1,7 +1,7 @@
-# **Ejercicio 1**
+#Ejercicio 1
 ---
 
-## **Código en Python**
+##Código en Python
 ---
 
 En Markdown puedes poner código de cualquier lenguaje en una `misma línea` y en bloque:
@@ -15,4 +15,11 @@ print('¡Acertaste!')
 
 ## **Pruebas: Calificaciones y CE**
 ---
+* **CE** : Criterio de evaluación.
+* **PM** : Puntuación Máxima.
+* **PS10** : Puntuación sobre 10.
+* **RA** : Resultado de Aprendizaje.
 
+Esto es un ejemplo de cómo hacer una prueba para la Unidad Didáctica 5 de Seguridad Informática siendo ésta su tabla CE-PM en la Programación didáctica:
+
+**UNIDAD DIDÁCTICA 5 - RA5(PM total:150)
