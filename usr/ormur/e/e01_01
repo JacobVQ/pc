@@ -5,3 +5,14 @@
 ---
 
 En Markdown puedes poner código de cualquier lenguaje en una `misma línea` y en bloque:
+
+```import random
+numero, intento = random.randint(1,10), 0:
+while numero != intento:
+     intento = int(input('¡Adivina un número del 1 al 10!')
+print('¡Acertaste!')     
+```
+
+## **Pruebas: Calificaciones y CE**
+---
+
