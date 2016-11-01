@@ -75,4 +75,4 @@ Quote break.
 
 emoji-cheat-sheet.com
 
-:smile: :smiley:
+:smiley:
