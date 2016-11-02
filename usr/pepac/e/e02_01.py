@@ -4,5 +4,5 @@ suma = 0
 for i in numeros:
     suma = suma + i
     
-media = suma / 5
+media = suma / 6
 print('La media es: ' + str(media)) 
