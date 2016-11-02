@@ -34,3 +34,26 @@ Esto es un ejemplo de cómo hacer una prueba para la Unidad Didáctica 5 de Segu
 |-----|------|-------|--------|-------|------|------|
 | PM  |  50  |  50   |   10   |  10   |  20  |  10  | 
 
+#####Opción 1 (ideal para pruebas de desarrollo)
+
+
+| Pregunta | CE | PM |  PS10 |
+|--------|-----------|------|------|
+| 1  | RA5:a   |  50   |  3.3 |
+| 2 | RA5:b |  50  | 3.3 |
+| 3 | RA5:c |  10  | 1 |
+| 4 | RA5:d |  10   | 1 |
+| 5 | RA5:e |  20  | 1.3 |
+| 6 | RA5:f |  10  | 1 |
+| Total | RA5:a-RA5:f | 150| 10 |
+
+#####Opción 2 (ideal para pruebas y/o combinar CE):
+
+
+| Pregunta | CE | PM |  PS10 |
+|--------|-------|------|-----|
+| 1  | RA5:a   |  50   |  3.3 |
+| 2 | RA5:b |  50  | 3.3 |
+| 3 | RA5:c-RA5:f |  50  | 1 |
+| Total | RA5:a-RA5:f | 150| 10 |
+
