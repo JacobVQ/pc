@@ -2,7 +2,7 @@
 
 ## Ejercicios
 
-**[01](data/e01.md)**.
+**[01](data/e01.md)**, **[02](data/e02.md)**.
 
 ## Ayuda
 
