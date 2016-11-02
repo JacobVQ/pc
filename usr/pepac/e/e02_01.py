@@ -5,4 +5,4 @@ for i in numeros:
     suma = suma + i
     
 media = suma / 5
-print('La media es: ' + str(media))
+print('La media es: ' + str(media)) 
