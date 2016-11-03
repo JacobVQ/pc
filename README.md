@@ -7,8 +7,8 @@
     * Papel de la Computación en la innovación tecnológica actual.
     * Impacto social y económico de la Computación en nuestro mundo.
     * Representación binaria de la información: el bit, el byte.
-    * Almacenamiento, transmisión y tratamiento básico de la información en binario: números, texto, imágenes, ficheros.
-    * Representación hexadecimal.
+    * [Almacenamiento, transmisión y tratamiento básico de la información en binario](http://areatecnologia.com/sistema-binario.htm).
+    * [Representación hexadecimal](http://es.wikipedia.org/wiki/sistema_hexadecimal).
 2. Programación (Python 3)
     
 
